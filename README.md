@@ -1,5 +1,5 @@
 # CHORES!
-
+Full-Stack: Front-end: Javascript, EJS, CSS Backend: Node.JS, Express Authentication: PaspportJS Database: MongoDB StripeAPI to handle payments
 
 https://user-images.githubusercontent.com/102000967/177580482-60738d22-6bfe-4b74-9956-a0489957e2eb.mov
 
